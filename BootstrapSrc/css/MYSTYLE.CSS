@@ -1,0 +1,61 @@
+
+.slider{height: 600px; background:url(../../Photo/Slider.jpg) no-repeat center;
+background-size: cover;}
+
+
+.container .row .col-lg-2 img{ width: 150px; height: 150px; border-radius: 100%; border: solid 5px black;
+margin-top:10px}
+
+
+.container .row .col-md-2 img{ width: 150px; height: 150px; border-radius: 100%; border: solid 5px black;
+margin-top:10px}
+
+
+.container .row .col-lg-2 img:hover{opacity: .5}
+
+.container .row .col-lg-2  h1{ font-size: 20px; color: red}
+
+.container .row .col-lg-2  p{font-size: 15px; color: gray}
+
+
+.container .row .col-lg-3 img{width: 100%; border: solid 5px green}
+
+.container .row .col-lg-3 h1{color:orange; font-size:20px}
+
+.container .row .col-lg-3 p{color:gray; font-size:15px}
+
+
+.container .row .col-lg-6 iframe{width:100% ; height:300px; border: double 5px black;
+padding: 5px}
+
+
+
+.container .row .col-lg-4 img{width:100%; height:300px; border:double 10px black;}
+
+.container .row .col-lg-2 .certiPhoto img{width:120px; height:120px; border:double 5px red; }
+
+
+.parallex{background:url(../../Photo/Travel5.jpg) center fixed no-repeat;
+background-size:cover; height:300px;}
+
+
+.container .row .col-lg-3 .travelphoto{width:100%; height:150px;border:Solid 10px black; margin-top:20px} 
+
+
+.container .row .col-lg-9 h1{color:red; font-size:20px; margin-top:10px}
+
+.container .row .col-lg-9 p{color:gray; font-size:15px}
+
+
+.container .row .col-lg-3 .newphoto img{width:100%; height:300px; margin-top:20px}
+
+
+.container .row .col-lg-5 .newphoto2 iframe{width:100%; height:300px; margin-top:20px}
+
+.container .row .col-lg-2 .newphoto3 img{width:100%; height:300px; margin-top:20px; border-radius: 0px }
+
+
+.container .row .col-lg-2 .newphoto4 img{width:100%; height:300px; margin-top:20px;border-radius: 0px }
+
+
+

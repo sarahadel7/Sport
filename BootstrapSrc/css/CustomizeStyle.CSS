@@ -1,0 +1,77 @@
+.alert-primary {
+    color: #d5350c;
+    background-color: #e4f227;
+    border: #000000 10px solid;
+}
+
+
+.alert-success {
+    color: #155724;
+    background-color: #06a42c;
+    border: black 10px double;
+}
+
+
+
+.MYalert-primary {
+    color:#B51DD8;
+    background-color:gray;
+    border:rgba(180,172,9,1.00) 10px double;
+}
+
+
+.MYalert-primary a{color: white}
+
+
+.MYalert-successContinet {
+    color: #ffffff;
+    background-color: #024312;
+    border: #eadc3b 10px double;
+}
+
+
+.MYalert-successContinet:hover{background-color:red}
+
+
+
+.MYalert-warningNew {
+    color: #ffffff;
+    background-color: #a07e12;
+    border-color: #000000;
+}
+
+
+.badge-secondary {
+    color: #fff;
+    background-color: #e87916;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #9e5126;
+    border-color: #007bff;
+}
+
+.btn-primary:hover{background-color:black}
+
+
+.badge-light{background-color:yellow}
+
+
+
+.breadcrumb {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #0c4e90;
+    border-radius: .25rem;
+}
+
+
+.breadcrumb a{color:white}
